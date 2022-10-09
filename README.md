@@ -14,7 +14,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
 - name: Install reorder_python_imports from PyPI
-  uses: install-pinned/reorder_python_imports@3cb59c269b31b7a031bf58c68a3c2bb5b2150fe5  # 3.8.3
+  uses: install-pinned/reorder_python_imports3cb59c269b31b7a031bf58c68a3c2bb5b2150fe5  # 3.8.3
 ```
 
 ## Alternatives
