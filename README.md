@@ -13,8 +13,8 @@ This action installs a pinned version of **reorder_python_imports** and all its 
 In your GitHub Actions workflow, use this action like so:
 
 ```yaml
-- name: Install reorder_python_imports from PyPI
-  uses: install-pinned/reorder_python_imports@5cab682560e2758395ae645934e62c6f308088df  # 3.9.0
+      - name: Install reorder_python_imports from PyPI
+        uses: install-pinned/reorder_python_imports@5cab682560e2758395ae645934e62c6f308088df  # 3.9.0
 ```
 
 ## Alternatives
