@@ -19,7 +19,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
       - name: Install reorder_python_imports from PyPI
-        uses: install-pinned/reorder_python_imports@171e4f0e811d3992876a8c8f620b903673aedcc6  # 3.9.0
+        uses: install-pinned/reorder_python_imports@ffffffffffffffffffffffffffffffffffffffff
 ```
 
 You can [set up Dependabot](https://docs.github.com/en/code-security/dependabot/working-with-dependabot/keeping-your-actions-up-to-date-with-dependabot#example-dependabotyml-file-for-github-actions)
